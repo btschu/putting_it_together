@@ -1,3 +1,10 @@
+# Putting it Together
+
+Using the same assignment as the Prop It Up assignment, create a birthday button that will increase one person's age by one.
+
+<img width="737" alt="Screen Shot 2022-06-26 at 10 10 35 PM" src="https://user-images.githubusercontent.com/92617960/175858431-6b61c891-8221-432b-92d5-b34a47978267.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
